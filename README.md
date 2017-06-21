@@ -16,11 +16,11 @@ The aesthetics have been revamped like so....
 
 ![Screenshot](RapidReporter.png).
 
-I've also added the capability so it generates CSV **and** HTML output by default. No need to hand crank all that CSV data by hand now. As with the original, the HTML is customisable via your own `style.css` file.
+I've also added the capability so it generates CSV **and** HTML output by default. No need to crank all that CSV data by hand now. As with the original, the HTML is customisable via your own `style.css` file.
 
 ### Mac Keyboard Shortcuts
 
-The user interface layout is almost identical to that of the Windows original with a few aesthetic alterations due to OSX UI element support. One thing to note is the Rapid Reporter Mac support for Mac keyboard shortcuts, shown below:
+There are menus, contextual and otherwise to perform all operations, but the keyboard shortcuts prove to be more expedient and popular by far. The shortcuts are unchanged from before:
 
 | Shortcut | Action |
 | :---: | :--- |
