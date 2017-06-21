@@ -14,7 +14,7 @@ To install Rapid Reporter BETA simply download the DMG file use that to install 
 
 The aesthetics have been revamped like so....
 
-![Screenshot](RapidReporter.png).
+![Screenshot](RapidReporter.png)
 
 I've also added the capability so it generates CSV **and** HTML output by default. No need to crank all that CSV data by hand now. As with the original, the HTML is customisable via your own `style.css` file.
 
