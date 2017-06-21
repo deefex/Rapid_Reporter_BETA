@@ -1,6 +1,6 @@
 ### Rapid Reporter BETA
 
-Welcome to _Rapid Reporter BETA_. This is the first chance I've had to rewrite the existing tool [RapidReporterMac](https://github.com/Skyscanner/RapidReporterMac) and take the chance to rewrite it, changing the visuals so it resembles the [original PC version](http://testing.gershon.info/reporter/) from Shmuel Gershon.
+Welcome to _Rapid Reporter BETA_. This is the first chance I've had to revisit the existing tool [RapidReporterMac](https://github.com/Skyscanner/RapidReporterMac) and take the chance to rewrite it, changing the visuals so it resembles the [original PC version](http://testing.gershon.info/reporter/) from Shmuel Gershon.
 
 ### Pre-Requisites
 
